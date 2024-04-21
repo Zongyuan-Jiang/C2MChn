@@ -6,7 +6,9 @@ The total dataset can be downloaded through the following link:
 - [OneDrive](https://1drv.ms/u/s!Aru0CK8Pf5hBikRWYPvo3LkvOti3?e=BnfrES)
 
 Note: 
+
 The <strong>C2MChn</strong> dataset can only be used for non-commercial research purposes. 
+
 The right of final interpretation belongs to [DLVC](https://github.com/HCIILAB).
 
 ## License
