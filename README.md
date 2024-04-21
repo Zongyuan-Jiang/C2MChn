@@ -2,7 +2,7 @@
 The [<strong>C2MChn</strong>](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_31) dataset for the research of machine translation between classical and modern Chinese is now released.
 
 The total dataset can be downloaded through the following link:
-- [Baidu Cloud](https://pan.baidu.com/s/14RNCn0g4r-7fi7gtAoooxg?pwd=duq3)(Size=3.75G)
+- [Baidu Cloud](https://pan.baidu.com/s/14RNCn0g4r-7fi7gtAoooxg?pwd=duq3)
 - [OneDrive](https://1drv.ms/u/s!Aru0CK8Pf5hBikRWYPvo3LkvOti3?e=BnfrES)
 
 Note: The <strong>C2MChn</strong> dataset can only be used for non-commercial research purposes. 
