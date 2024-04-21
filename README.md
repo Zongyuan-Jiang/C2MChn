@@ -1,5 +1,5 @@
 # SCUT-C2MChn Dataset
-The [<strong>C2MChn</strong>](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_31) dataset for the research of machine translation from classical to modern Chinese (古汉语到现代汉语的神经机器翻译) is now released by Deep Leaning and Visual Computing Lab of South China University of Technology. To the best of our knowledge, this is the first high-quality and comprehensive dataset that not only covers traditional history books but also the Buddhist classics, Confucian classics, Taoist classics, and some other domains.
+The [<strong>C2MChn</strong>](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_31) dataset for the research of machine translation from classical to modern Chinese is now released by Deep Leaning and Visual Computing Lab of South China University of Technology. To the best of our knowledge, this is the first high-quality and comprehensive dataset that not only covers traditional history books but also the Buddhist classics, Confucian classics, Taoist classics, and some other domains.
 
 The total dataset can be downloaded through the following link:
 - [Baidu Cloud](https://pan.baidu.com/s/14RNCn0g4r-7fi7gtAoooxg?pwd=duq3)
