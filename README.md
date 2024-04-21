@@ -1,5 +1,5 @@
 # SCUT_C2MChn_Dataset
-The [<strong>C2MChn</strong>](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_31) dataset for the research of machine translation between classical and modern Chinese is now released.
+The [<strong>C2MChn</strong>](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_31) dataset for the research of machine translation from classical to modern Chinese is now released by Deep Leaning and Visual Computing Lab of South China University of Technology.
 
 The total dataset can be downloaded through the following link:
 - [Baidu Cloud](https://pan.baidu.com/s/14RNCn0g4r-7fi7gtAoooxg?pwd=duq3)
