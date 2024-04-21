@@ -5,7 +5,7 @@ The total dataset can be downloaded through the following link:
 - [Baidu Cloud](https://pan.baidu.com/s/14RNCn0g4r-7fi7gtAoooxg?pwd=duq3)
 - [OneDrive](https://1drv.ms/u/s!Aru0CK8Pf5hBikRWYPvo3LkvOti3?e=BnfrES)
 
-Note: 
+<strong>Note</strong>:
 
 The <strong>C2MChn</strong> dataset can only be used for non-commercial research purposes. 
 
@@ -161,7 +161,7 @@ The <strong>C2MChn</strong> dataset should be used and distributed under the [Cr
     </tr>
 </table>
 
-<strong>Note</strong> “pairs”, “cla/s” and “mod/s” denote the number of parallel sentence pairs, the average number of word tokens per classical Chinese sentence and the average number of word tokens per modern Chinese sentence, respectively.
+Note “pairs”, “cla/s” and “mod/s” denote the number of parallel sentence pairs, the average number of word tokens per classical Chinese sentence and the average number of word tokens per modern Chinese sentence, respectively.
 
 ## Directory Format
 The dataset is organized in the following directory format:
