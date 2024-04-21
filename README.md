@@ -5,7 +5,9 @@ The total dataset can be downloaded through the following link:
 - [Baidu Cloud](https://pan.baidu.com/s/14RNCn0g4r-7fi7gtAoooxg?pwd=duq3)
 - [OneDrive](https://1drv.ms/u/s!Aru0CK8Pf5hBikRWYPvo3LkvOti3?e=BnfrES)
 
-Note: The <strong>C2MChn</strong> dataset can only be used for non-commercial research purposes. 
+Note: 
+The <strong>C2MChn</strong> dataset can only be used for non-commercial research purposes. 
+The right of final interpretation belongs to [DLVC](https://github.com/HCIILAB).
 
 ## License
 The <strong>C2MChn</strong> dataset should be used and distributed under the [Creative Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
